@@ -10,7 +10,7 @@
 
     "ad_network": [
       {
-        "name": "xadmob",
+        "name": "admob",
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "ca-app-pub-3940256099942544/6300978111",
